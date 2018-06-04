@@ -1,0 +1,10 @@
+{
+  "name": "@meadowdoc/core",
+  "version": "0.0.1",
+  "description": "The Meadowdoc core library",
+  "main": "index.js",
+  "repository": "https://github.com/meadowdoc/platform",
+  "author": "Samantha Enders <ladysamantha@protonmail.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
