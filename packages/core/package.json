@@ -1,6 +1,6 @@
 {
   "name": "@meadowdoc/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Meadowdoc core library",
   "main": "index.js",
   "repository": "https://github.com/meadowdoc/platform",
