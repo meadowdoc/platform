@@ -7,8 +7,14 @@
   "author": "Samantha Enders <ladysamantha@pm.me>",
   "license": "GPL-3.0",
   "private": false,
+  "scripts": {
+    "lint": "eslint packages '*.js' '**/*.js' --fix"
+  },
   "devDependencies": {
-    "lerna": "^2.11.0"
+    "eslint": "^4.19.1",
+    "eslint-plugin-prettier": "^2.6.0",
+    "lerna": "^2.11.0",
+    "prettier": "^1.13.4"
   },
   "publishConfig": {
     "access": "public"
