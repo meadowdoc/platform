@@ -1,6 +1,6 @@
 {
   "name": "@meadowdoc/platform",
-  "version": "0.1.0",
+  "version": "0.0.1-PLACEHOLDER",
   "description": "The Meadowdoc OSS Document Mangement platform",
   "main": "bin/cli.js",
   "repository": "https://github.com/meadowdoc/platform",
